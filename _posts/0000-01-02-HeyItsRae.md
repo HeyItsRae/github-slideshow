@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“Think and wonder, wonder and think.” - Dr. Seuss
 Use the left arrow to go back!
